@@ -8,3 +8,5 @@ This repository contains software engineering experiments and project work.
 
 Created using Git and GitHub.
 
+This repository is used for GitHub practical experiments.
+
